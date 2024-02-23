@@ -1,18 +1,19 @@
 # dot-net-information
 
-Dot net  
+`Dot net`  
 
  .net is a software development framework used for building and running appliction on window. 
 
-       ## C# 
+       `C#` 
 
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. 
 
  
+      ``DATATYPES IN C#``  {variable} 
 
-     ## DATATYPES IN C#  {variable} 
-
-Integer : int variable; 4 byte 
+*Integer* : 
+``int variable;``
+4 byte 
 
 String : string input =“harshda”; 2 byte per character 
 
