@@ -9,28 +9,48 @@
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. 
 
  
-      ``DATATYPES IN C#``  {variable} 
+      `DATATYPES IN C#`  {variable} 
 
 *Integer* : 
 ``int variable;``
 4 byte 
 
-String : string input =“harshda”; 2 byte per character 
+*String* : 
+``string input =“harshda”;`` 
+2 byte per character 
 
-Float: floating point number. 4 byte 
+*Float:*
+``float x=120.33``
+floating point number. 4 byte 
 
-Character : char a=’a’;  2byte 
+*Character:* 
+``char a=’a’;`` 
+2byte 
 
-Boolean: bool  isgreat=true; 1bit 
+*Boolean:* 
+``bool  isgreat=true;`` 
+1bit 
 
-Double:  double harry; 8 byte 
+*Double:* 
+``double harry=80.43``;
+8 byte 
 
-Long: long 5.4  8byte 
+*Long:* 
+``long 5.4``
+8byte 
 
  
+## COMMENTS  in C#
 
-## COMMENTS  
+// single line comment
 
-// single line 
+/* */multiline comment
 
-/* */multiline 
+ 
+CONST 
+
+This will declare the variable as "constant", which means unchangeable and read-only: 
+
+The WriteLine() method is often used to display variable values to the console window. 
+
+To declare more than one variable of the same type, use a comma-separated list: 
