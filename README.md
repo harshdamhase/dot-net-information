@@ -53,4 +53,21 @@ This will declare the variable as "constant", which means unchangeable and read-
 
 The WriteLine() method is often used to display variable values to the console window. 
 
+ 
+
+To output values or print text in C#, you can use the WriteLine() method: 
+
 To declare more than one variable of the same type, use a comma-separated list: 
+
+Console.WriteLine("Hello World!"); 
+
+Console.ReadLine() to get user input. 
+
+The Math.Max(x,y) method can be used to find the highest value of x and y:
+
+The Math.Sqrt(x) method returns the square root of x:
+
+The Math.Min(x,y) method can be used to find the lowest value of of x and y:
+
+The default keyword is optional and specifies some code to run if there is no case match:
+
