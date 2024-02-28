@@ -47,11 +47,11 @@ floating point number. 4 byte
 /* */multiline comment
 
  
-CONST 
+``CONST`` 
 
 This will declare the variable as "constant", which means unchangeable and read-only: 
 
-The WriteLine() method is often used to display variable values to the console window. 
+The `WriteLine()` method is often used to display variable values to the console window. 
 
  
 
@@ -63,11 +63,11 @@ Console.WriteLine("Hello World!");
 
 Console.ReadLine() to get user input. 
 
-The Math.Max(x,y) method can be used to find the highest value of x and y:
+The `Math.Max(x,y)` method can be used to find the highest value of x and y:
 
-The Math.Sqrt(x) method returns the square root of x:
+The `Math.Sqrt(x)` method returns the square root of x:
 
-The Math.Min(x,y) method can be used to find the lowest value of of x and y:
+The `Math.Min(x,y)` method can be used to find the lowest value of of x and y:
 
 The default keyword is optional and specifies some code to run if there is no case match:
 
