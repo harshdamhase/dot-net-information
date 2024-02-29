@@ -71,3 +71,35 @@ The `Math.Min(x,y)` method can be used to find the lowest value of of x and y:
 
 The default keyword is optional and specifies some code to run if there is no case match:
 
+
+
+
+
+
+
+
+GITHUB 
+New changes
+
+```
+git add . # To add all the files in the current directory
+git add <file.ext> # To add a specific file
+```
+
+```
+git branch <new name> # and remain in the current branch
+git checkout -b <new name> # and switch to the new branch
+git checkout -b <new name> <another branch> # From another branch
+```
+
+New remote repository
+
+```
+git remote add <shortname> <url>
+```
+
+Push changes to remote repo
+
+```
+git push <remote> <branch>
+```
